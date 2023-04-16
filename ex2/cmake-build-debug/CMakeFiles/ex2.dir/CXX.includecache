@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/uthreads.cpp
+map
+-
+set
+-
+uthreads.h
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/uthreads.h
+
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/uthreads.h
+

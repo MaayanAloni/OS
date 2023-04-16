@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/demo_itimer.c
+stdio.h
+-
+signal.h
+-
+sys/time.h
+-
+
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/demo_jmp.c
+stdio.h
+-
+setjmp.h
+-
+signal.h
+-
+unistd.h
+-
+sys/time.h
+-
+stdbool.h
+-
+
+/cygdrive/c/Users/aloni/Desktop/os/ex2/resources/demo_singInt_handler.c
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+
