@@ -146,5 +146,6 @@ int main(void)
 {
     setup();
     jump_to_thread(0);
+    int a = 10;
     return 0;
 }
