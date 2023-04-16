@@ -147,5 +147,6 @@ int main(void)
     setup();
     jump_to_thread(0);
     int a = 10;
+    int omri_ata = 0;
     return 0;
 }
