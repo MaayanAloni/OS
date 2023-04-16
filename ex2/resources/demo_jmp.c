@@ -149,5 +149,6 @@ int main(void)
     int a = 10;
     int omri_ata = 0;
     int lo_ata_ya_tahat = 0;
+    int hi_hi= 0;
     return 0;
 }
