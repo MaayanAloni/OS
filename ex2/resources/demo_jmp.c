@@ -148,5 +148,6 @@ int main(void)
     jump_to_thread(0);
     int a = 10;
     int omri_ata = 0;
+    int lo_ata_ya_tahat = 0;
     return 0;
 }
